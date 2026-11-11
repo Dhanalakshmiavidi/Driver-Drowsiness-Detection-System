@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Recordings and uploads
+backend/src/recordings/
+backend/uploads/
+uploads/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
